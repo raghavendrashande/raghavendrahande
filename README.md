@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Flutter for android development. <br>I have a good grasp on the basic concepts in  C++ and have learnt a little bit of Kotlin<br>Currently pursuing by B.E. at Sir MVIT, Bangalore.<br>I love to learn new things and constantly adapt to my needs.
+I'm currently learning Flutter for android development. <br>I have a good grasp on the basic concepts in  C++ and have learnt a little bit of Kotlin<br>Currently pursuing my B.E. at Sir MVIT, Bangalore.<br>I love to learn new things and constantly adapt to my needs.
 
 
 ## 🌐 Socials:
