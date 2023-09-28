@@ -1,4 +1,4 @@
-https://holopin.me/raghavendrashande
+[![An image of @raghavendrashande's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavendrashande)](https://holopin.io/@raghavendrashande)
 
 # 💫 About Me:
 I'm currently learning Flutter for android development.<br>I have a good grasp on the basic concepts in C++ and have learnt a little bit of Kotlin<br>Currently pursuing my B.E. at Sir MVIT, Bangalore.<br>I love to learn new things and constantly adapt to my needs.
